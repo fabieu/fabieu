@@ -1,6 +1,6 @@
 <!-- **fabieu/fabieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fabieu&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fabieu&show_icons=true&theme=react)
 
 ## Hey there, I’m Fabian 👋
 Junior IT Consultant and Software Developer
@@ -19,7 +19,7 @@ Junior IT Consultant and Software Developer
 - MongoDB as database
 - Powershell or bash for scripting
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabieu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabieu&layout=compact&theme=react)
 
 #### 🔎 I’m currently learning:
 - Chart.js
