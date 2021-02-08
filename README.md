@@ -1,7 +1,5 @@
 <!-- **fabieu/fabieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fabieu&show_icons=true&theme=react)
-
 ## Hey there, I’m Fabian 👋
 Junior IT Consultant and Software Developer
 
