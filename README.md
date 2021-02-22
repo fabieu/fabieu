@@ -4,23 +4,23 @@
 Junior IT Consultant and Software Developer
 
 #### 🔭 I’m currently working on:
-- Twitch Chat Activity Analysis
+- [Twitch Chat Analysis](https://twitchat.sustineo.de/)
 
 #### 💙 I’m passionate about:
 - coding 💻
 - home and task automation 📰
-- learning new things 
+- learning new things
+- sport
 
 #### 📚 In my projects I usually use:
-- Plain HTML, CSS and Javascript for the frontend 👀
-- Python for the backend 🤖
-- MongoDB as database
-- Powershell or bash for scripting
+- Frontend: HTML, CSS and Javascript
+- Backend:  Python for the backend
+- Database: MongoDB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabieu&layout=compact&theme=react)
 
 #### 🔎 I’m currently learning:
-- Chart.js
+- Django
 
 #### 📫 How to reach me:
 - 🐦 Twitter: [sustineo_](https://twitter.com/sustineo_)  
