@@ -3,8 +3,8 @@
 ## Hey there, I’m Fabian 👋
 Junior IT Consultant and Software Developer
 
-#### 🔭 I’m currently working on:
-- [Twitch Chat Analysis](https://twitchat.sustineo.de/)
+#### 🔭 My projects:
+- Visit https://sustineo.de/#portfolio
 
 #### 💙 I’m passionate about:
 - coding 💻
