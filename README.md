@@ -1,29 +1,30 @@
 <!-- **fabieu/fabieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hey there, I’m Fabian 👋
-Junior IT Consultant and Software Developer
+## Hey there, I’m Fabi 👋
+I'm a passionate Junior IT Consultant and Software Developer
 
 #### 🔭 My projects:
-- Visit https://sustineo.de/#portfolio
+- https://sustineo.de/#portfolio
 
-#### 💙 I’m passionate about:
+#### I’m passionate about 💙: 
 - coding 💻
 - home and task automation 📰
 - learning new things
 - sports (fistball, sprinting)
 
-#### 📚 In my projects I usually use:
+#### In my projects I usually use:
 - Frontend: Bootstrap (+ JQuery)
-- Backend:  Python
-- Database: MongoDB or MySQL
+- Backend:  Python, Java
+- Database: MongoDB, MySQL
 
-#### 🔎 I’m currently learning:
-- FastAPI (Python Framework)
-- Vue
+#### Frameworks I am familiar with:
+- Python: Flask, FastAPI, Pandas, Typer
 
-#### 📫 How to reach me:
+#### I’m currently improving my skills in:
+- Docker
+
+#### How to reach me 📫:
 - 🐦 Twitter: [sustineo_](https://twitter.com/sustineo_)  
-- 📷 Instagram: [sustineo_](https://instagram.com/sustineo_)
 - ✉ E-Mail [dev@sustineo.de](mailto:dev@sustineo.de)
 
 ---
