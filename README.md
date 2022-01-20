@@ -1,32 +1,37 @@
 <!-- **fabieu/fabieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hey there, I’m Fabi 👋
-I'm a passionate Junior IT Consultant and Software Developer
+## Hey there, I’m Fabian 👋
+I'm a passionate Junior IT Consultant and Software Developer. In the following sections you can learn more about me, my skills and my passion.
 
 #### 🔭 My projects:
 - https://sustineo.de/#portfolio
 
-#### I’m passionate about 💙: 
-- coding 💻
-- home and task automation 📰
-- learning new things
-- sports (fistball, sprinting)
+#### ❤️ I’m passionate about: 
+- Coding 💻
+- Home and task automation 📰
+- Learning new things
+- Sports (fistball, fitness)
 
-#### In my projects I usually use:
-- Frontend: Bootstrap (+ JQuery)
+#### 🚀 My stack:
+- Frontend HTML, CSS, Javascript
 - Backend:  Python, Java
 - Database: MongoDB, MySQL
+- Infrastructure: Linux, Windows, Docker
 
-#### Frameworks I am familiar with:
-- Python: Flask, FastAPI, Pandas, Typer
+#### 📚 Frameworks I am familiar with:
+- Python: Flask, FastAPI, Typer
 
-#### I’m currently improving my skills in:
-- Docker
+#### 📖 I’m currently learning:
+- Vue.js 3
+- Django
 
-#### How to reach me 📫:
-- 🐦 Twitter: [sustineo_](https://twitter.com/sustineo_)  
-- ✉ E-Mail [dev@sustineo.de](mailto:dev@sustineo.de)
+#### 📫 How to reach me:
+- E-Mail: [contact@sustineo.de](mailto:contact@sustineo.de)
+- Twitter: [sustineo_](https://twitter.com/sustineo_)  
 
+#### 📈 All my developer accounts:
+- GitLab: [fabieu](https://gitlab.com/fabieu) - Hosting private repositories and CI/CD pipeline
+- Docker Hub: [fabieu](https://hub.docker.com/u/fabieu) - Docker container image library
 ---
 
 ### My GitHub stats
