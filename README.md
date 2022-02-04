@@ -13,16 +13,12 @@ I'm a passionate Junior IT Consultant and Software Developer. In the following s
 - Sports (fistball, fitness)
 
 #### 🚀 My stack:
-- Frontend HTML, CSS, Javascript
+- Frontend Vue 3
 - Backend:  Python, Java
 - Database: MongoDB, MySQL
 - Infrastructure: Linux, Windows, Docker
 
-#### 📚 Frameworks I am familiar with:
-- Python: Flask, FastAPI, Typer
-
 #### 📖 I’m currently learning:
-- Vue.js 3
 - Django
 
 #### 📫 How to reach me:
