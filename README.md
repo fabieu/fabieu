@@ -13,24 +13,15 @@ I'm a passionate Junior IT Consultant and Software Developer. In the following s
 - Sports (fistball, fitness)
 
 #### 🚀 My stack:
-- Frontend Vue 3
+- Frontend Vue 3, Boostrap
 - Backend:  Python, Java
 - Database: MongoDB, MySQL
 - Infrastructure: Linux, Windows, Docker
 
-#### 📖 I’m currently learning:
-- Django
+#### 📈 My other accounts:
+- Docker Hub: [fabieu](https://hub.docker.com/u/fabieu) - Docker container image library
+- GitLab: [fabieu](https://gitlab.com/fabieu) - Hosting private repositories and CI/CD pipeline
 
 #### 📫 How to reach me:
 - E-Mail: [contact@sustineo.de](mailto:contact@sustineo.de)
 - Twitter: [sustineo_](https://twitter.com/sustineo_)  
-
-#### 📈 All my developer accounts:
-- GitLab: [fabieu](https://gitlab.com/fabieu) - Hosting private repositories and CI/CD pipeline
-- Docker Hub: [fabieu](https://hub.docker.com/u/fabieu) - Docker container image library
----
-
-### My GitHub stats
-[![fabieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabieu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabieu&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
