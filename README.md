@@ -1,7 +1,9 @@
 <!-- **fabieu/fabieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## Hey there, I’m Fabian 👋
-I'm a passionate Junior IT Consultant and Software Developer. In the following sections you can learn more about me, my skills and my passion.
+I'm a passionate Software Developer from Germany [:de:]. In the following sections you can learn more about me, my skills and my passion.
+
+Visit my  [GitLab profile](https://gitlab.com/fabieu) for all my current and latest projects.
 
 #### 🔭 My projects:
 - https://sustineo.de/#portfolio
