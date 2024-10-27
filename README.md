@@ -51,4 +51,4 @@ I'm a passionate Software Developer from Germany. In the following sections you 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 ### 👏 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=fabieu&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=fabieu&theme=dark&card_width=990&mode=weekly)
