@@ -40,7 +40,7 @@ optimizing physical spaces in real time.
 
 - **Smart Home** - Passionate about automating my home with Home Assistant.
 - **Sports** - Semi-professional fistball player and fitness enthusiast.
-- **Sim Racing** - Manager of the [Sim2Real](https://discord.com/servers/sim2real-705817819459092500) sim racing
+- **Sim Racing** - Manager of the [Sim2Real](https://sim2real.eu) sim racing
   community, organizing and hosting online racing events.
 - **Self-Improvement** - Constantly seeking ways to grow personally and professionally.
 
