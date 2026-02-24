@@ -31,6 +31,7 @@ optimizing physical spaces in real time.
 | 🗂️ Projects                                                    | ⭐ Stars                                                                              | 🍴 Forks                                                                        | 🚧 Issues                                                                                          | 📬 Pull requests                                                                                          | 📝 Commits                                                                                  |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
 | [<u>SureHub API</u>][surehub-api]                               | [![GitHub Repo stars][surehub-api-stars]][surehub-api]                               | [![GitHub forks][surehub-api-forks]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-issues]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-pull-requests]][surehub-api]                               | [![GitHub commit activity][surehub-api-commits]][surehub-api]                               |
+| [<u>FINNBAR</u>][finnbar]                                       | [![GitHub Repo stars][finnbar-stars]][finnbar]                                       | [![GitHub forks][finnbar-forks]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-issues]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-pull-requests]][finnbar]                                       | [![GitHub commit activity][finnbar-commits]][finnbar]                                       |
 | [<u>Steam Next</u>][steam-next]                                 | [![GitHub Repo stars][steam-next-stars]][steam-next]                                 | [![GitHub forks][steam-next-forks]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-issues]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-pull-requests]][steam-next]                                 | [![GitHub commit activity][steam-next-commits]][steam-next]                                 |
 | [<u>Steam Market History CLI</u>][steam-market-history]         | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]             | [![GitHub forks][steam-market-history-forks]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-issues]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-pull-requests]][steam-market-history]             | [![GitHub commit activity][steam-market-history-commits]][steam-market-history]             |
 | [<u>SimDesk</u>][simdesk]                                       | [![GitHub Repo stars][simdesk-stars]][simdesk]                                       | [![GitHub forks][simdesk-forks]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-issues]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-pull-requests]][simdesk]                                       | [![GitHub commit activity][simdesk-commits]][simdesk]                                       |
@@ -58,6 +59,21 @@ optimizing physical spaces in real time.
 [surehub-api-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/surehub-api?style=flat
 
 [surehub-api-commits]: https://img.shields.io/github/commit-activity/t/fabieu/surehub-api?style=flat
+
+
+<!-- FINNBAR -->
+
+[finnbar]: https://github.com/fabieu/FINNBAR
+
+[finnbar-stars]: https://img.shields.io/github/stars/fabieu/FINNBAR?style=social
+
+[finnbar-forks]: https://img.shields.io/github/forks/fabieu/FINNBAR?style=social
+
+[finnbar-issues]: https://img.shields.io/github/issues/fabieu/FINNBAR?style=flat
+
+[finnbar-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/FINNBAR?style=flat
+
+[finnbar-commits]: https://img.shields.io/github/commit-activity/t/fabieu/FINNBAR?style=flat
 
 
 <!-- Steam Next -->
