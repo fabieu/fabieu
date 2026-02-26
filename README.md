@@ -63,17 +63,17 @@ optimizing physical spaces in real time.
 
 <!-- FINNBAR -->
 
-[finnbar]: https://github.com/fabieu/FINNBAR
+[finnbar]: https://github.com/fabieu/finnbar
 
-[finnbar-stars]: https://img.shields.io/github/stars/fabieu/FINNBAR?style=social
+[finnbar-stars]: https://img.shields.io/github/stars/fabieu/finnbar?style=social
 
-[finnbar-forks]: https://img.shields.io/github/forks/fabieu/FINNBAR?style=social
+[finnbar-forks]: https://img.shields.io/github/forks/fabieu/finnbar?style=social
 
-[finnbar-issues]: https://img.shields.io/github/issues/fabieu/FINNBAR?style=flat
+[finnbar-issues]: https://img.shields.io/github/issues/fabieu/finnbar?style=flat
 
-[finnbar-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/FINNBAR?style=flat
+[finnbar-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/finnbar?style=flat
 
-[finnbar-commits]: https://img.shields.io/github/commit-activity/t/fabieu/FINNBAR?style=flat
+[finnbar-commits]: https://img.shields.io/github/commit-activity/t/fabieu/finnbar?style=flat
 
 
 <!-- Steam Next -->
