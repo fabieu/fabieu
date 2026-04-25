@@ -28,15 +28,15 @@ optimizing physical spaces in real time.
 
 ## 🔓 Open Source Projects
 
-| 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars / 🍴 Forks                                                                                                                                                      | 🚧 Issues / 📬 Pull requests                                                                                                                                                                                    |
-|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]<br>[![GitHub forks][surehub-api-forks]][surehub-api]                                                             | [![GitHub Issues or Pull Requests][surehub-api-issues]][surehub-api]<br>[![GitHub Issues or Pull Requests][surehub-api-pull-requests]][surehub-api]                                                             |
-| [<u>FINNBAR</u>][finnbar]                                       | A TUI for browsing and checking real-time IKEA product availability across your local stores, without leaving the terminal. | [![GitHub Repo stars][finnbar-stars]][finnbar]<br>[![GitHub forks][finnbar-forks]][finnbar]                                                                             | [![GitHub Issues or Pull Requests][finnbar-issues]][finnbar]<br>[![GitHub Issues or Pull Requests][finnbar-pull-requests]][finnbar]                                                                             |
-| [<u>Steam Next</u>][steam-next]                                 | Modern alternative to ValvePython/steam python package for interacting with Steam 🚀                                        | [![GitHub Repo stars][steam-next-stars]][steam-next]<br>[![GitHub forks][steam-next-forks]][steam-next]                                                                 | [![GitHub Issues or Pull Requests][steam-next-issues]][steam-next]<br>[![GitHub Issues or Pull Requests][steam-next-pull-requests]][steam-next]                                                                 |
-| [<u>Steam Market History CLI</u>][steam-market-history]         | An easy-to-use CLI to export your steam market history to various formats                                                   | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]<br>[![GitHub forks][steam-market-history-forks]][steam-market-history]                         | [![GitHub Issues or Pull Requests][steam-market-history-issues]][steam-market-history]<br>[![GitHub Issues or Pull Requests][steam-market-history-pull-requests]][steam-market-history]                         |
-| [<u>SimDesk</u>][simdesk]                                       | Modern server leaderboard and various services for sim racing organizers.                                                   | [![GitHub Repo stars][simdesk-stars]][simdesk]<br>[![GitHub forks][simdesk-forks]][simdesk]                                                                             | [![GitHub Issues or Pull Requests][simdesk-issues]][simdesk]<br>[![GitHub Issues or Pull Requests][simdesk-pull-requests]][simdesk]                                                                             |
-| [<u>MkDocs Color Swatch Plugin</u>][mkdocs-color-swatch-plugin] | A lightweight plugin that lets you insert inline color swatches into your Markdown docs using a simple, readable syntax.    | [![GitHub Repo stars][mkdocs-color-swatch-plugin-stars]][mkdocs-color-swatch-plugin]<br>[![GitHub forks][mkdocs-color-swatch-plugin-forks]][mkdocs-color-swatch-plugin] | [![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-issues]][mkdocs-color-swatch-plugin]<br>[![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-pull-requests]][mkdocs-color-swatch-plugin] |
-| [<u>Spotify Utils CLI</u>][spotify-utils]                       | An awesome and easy-to-use CLI for various Spotify® utility tasks                                                           | [![GitHub Repo stars][spotify-utils-stars]][spotify-utils]<br>[![GitHub forks][spotify-utils-forks]][spotify-utils]                                                     | [![GitHub Issues or Pull Requests][spotify-utils-issues]][spotify-utils]<br>[![GitHub Issues or Pull Requests][spotify-utils-pull-requests]][spotify-utils]                                                     |
+| 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                   | 🚧 Issues <br> 📬 Pull requests                                                                                                                                                                                                                                                                                                                                                                                |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]<br>[![GitHub forks][surehub-api-forks]][surehub-api]                                                             | <a href="https://github.com/fabieu/surehub-api"><img src="https://img.shields.io/github/issues/fabieu/surehub-api?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/surehub-api"><img src="https://img.shields.io/github/issues-pr/fabieu/surehub-api?style=flat" height="20" alt="GitHub Pull Requests"></a>                                                             |
+| [<u>FINNBAR</u>][finnbar]                                       | A TUI for browsing and checking real-time IKEA product availability across your local stores, without leaving the terminal. | [![GitHub Repo stars][finnbar-stars]][finnbar]<br>[![GitHub forks][finnbar-forks]][finnbar]                                                                             | <a href="https://github.com/fabieu/finnbar"><img src="https://img.shields.io/github/issues/fabieu/finnbar?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/finnbar"><img src="https://img.shields.io/github/issues-pr/fabieu/finnbar?style=flat" height="20" alt="GitHub Pull Requests"></a>                                                                             |
+| [<u>Steam Next</u>][steam-next]                                 | Modern alternative to ValvePython/steam python package for interacting with Steam 🚀                                        | [![GitHub Repo stars][steam-next-stars]][steam-next]<br>[![GitHub forks][steam-next-forks]][steam-next]                                                                 | <a href="https://github.com/fabieu/steam-next"><img src="https://img.shields.io/github/issues/fabieu/steam-next?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/steam-next"><img src="https://img.shields.io/github/issues-pr/fabieu/steam-next?style=flat" height="20" alt="GitHub Pull Requests"></a>                                                                 |
+| [<u>Steam Market History CLI</u>][steam-market-history]         | An easy-to-use CLI to export your steam market history to various formats                                                   | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]<br>[![GitHub forks][steam-market-history-forks]][steam-market-history]                         | <a href="https://github.com/fabieu/steam-market-history"><img src="https://img.shields.io/github/issues/fabieu/steam-market-history?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/steam-market-history"><img src="https://img.shields.io/github/issues-pr/fabieu/steam-market-history?style=flat" height="20" alt="GitHub Pull Requests"></a>                         |
+| [<u>SimDesk</u>][simdesk]                                       | Modern server leaderboard and various services for sim racing organizers.                                                   | [![GitHub Repo stars][simdesk-stars]][simdesk]<br>[![GitHub forks][simdesk-forks]][simdesk]                                                                             | <a href="https://github.com/fabieu/simdesk"><img src="https://img.shields.io/github/issues/fabieu/simdesk?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/simdesk"><img src="https://img.shields.io/github/issues-pr/fabieu/simdesk?style=flat" height="20" alt="GitHub Pull Requests"></a>                                                                             |
+| [<u>MkDocs Color Swatch Plugin</u>][mkdocs-color-swatch-plugin] | A lightweight plugin that lets you insert inline color swatches into your Markdown docs using a simple, readable syntax.    | [![GitHub Repo stars][mkdocs-color-swatch-plugin-stars]][mkdocs-color-swatch-plugin]<br>[![GitHub forks][mkdocs-color-swatch-plugin-forks]][mkdocs-color-swatch-plugin] | <a href="https://github.com/fabieu/mkdocs-color-swatch-plugin"><img src="https://img.shields.io/github/issues/fabieu/mkdocs-color-swatch-plugin?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/mkdocs-color-swatch-plugin"><img src="https://img.shields.io/github/issues-pr/fabieu/mkdocs-color-swatch-plugin?style=flat" height="20" alt="GitHub Pull Requests"></a> |
+| [<u>Spotify Utils CLI</u>][spotify-utils]                       | An awesome and easy-to-use CLI for various Spotify® utility tasks                                                           | [![GitHub Repo stars][spotify-utils-stars]][spotify-utils]<br>[![GitHub forks][spotify-utils-forks]][spotify-utils]                                                     | <a href="https://github.com/fabieu/spotify-utils"><img src="https://img.shields.io/github/issues/fabieu/spotify-utils?style=flat" height="20" alt="GitHub Issues"></a><br><a href="https://github.com/fabieu/spotify-utils"><img src="https://img.shields.io/github/issues-pr/fabieu/spotify-utils?style=flat" height="20" alt="GitHub Pull Requests"></a>                                                     |
 
 ## 🔒 Closed Source Projects
 
@@ -59,10 +59,6 @@ optimizing physical spaces in real time.
 
 [surehub-api-forks]: https://img.shields.io/github/forks/fabieu/surehub-api?style=social
 
-[surehub-api-issues]: https://img.shields.io/github/issues/fabieu/surehub-api?style=flat
-
-[surehub-api-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/surehub-api?style=flat
-
 
 <!-- FINNBAR -->
 
@@ -71,10 +67,6 @@ optimizing physical spaces in real time.
 [finnbar-stars]: https://img.shields.io/github/stars/fabieu/finnbar?style=social
 
 [finnbar-forks]: https://img.shields.io/github/forks/fabieu/finnbar?style=social
-
-[finnbar-issues]: https://img.shields.io/github/issues/fabieu/finnbar?style=flat
-
-[finnbar-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/finnbar?style=flat
 
 
 <!-- Steam Next -->
@@ -85,10 +77,6 @@ optimizing physical spaces in real time.
 
 [steam-next-forks]: https://img.shields.io/github/forks/fabieu/steam-next?style=social
 
-[steam-next-issues]: https://img.shields.io/github/issues/fabieu/steam-next?style=flat
-
-[steam-next-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/steam-next?style=flat
-
 
 <!-- Steam Market History -->
 
@@ -97,10 +85,6 @@ optimizing physical spaces in real time.
 [steam-market-history-stars]: https://img.shields.io/github/stars/fabieu/steam-market-history?style=social
 
 [steam-market-history-forks]: https://img.shields.io/github/forks/fabieu/steam-market-history?style=social
-
-[steam-market-history-issues]: https://img.shields.io/github/issues/fabieu/steam-market-history?style=flat
-
-[steam-market-history-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/steam-market-history?style=flat
 
 
 <!-- SimDesk -->
@@ -111,10 +95,6 @@ optimizing physical spaces in real time.
 
 [simdesk-forks]: https://img.shields.io/github/forks/fabieu/simdesk?style=social
 
-[simdesk-issues]: https://img.shields.io/github/issues/fabieu/simdesk?style=flat
-
-[simdesk-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/simdesk?style=flat
-
 
 <!-- MkDocs Color Swatch Plugin -->
 
@@ -124,10 +104,6 @@ optimizing physical spaces in real time.
 
 [mkdocs-color-swatch-plugin-forks]: https://img.shields.io/github/forks/fabieu/mkdocs-color-swatch-plugin?style=social
 
-[mkdocs-color-swatch-plugin-issues]: https://img.shields.io/github/issues/fabieu/mkdocs-color-swatch-plugin?style=flat
-
-[mkdocs-color-swatch-plugin-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/mkdocs-color-swatch-plugin?style=flat
-
 <!-- Spotify Utils CLI -->
 
 [spotify-utils]: https://github.com/fabieu/spotify-utils
@@ -135,10 +111,6 @@ optimizing physical spaces in real time.
 [spotify-utils-stars]: https://img.shields.io/github/stars/fabieu/spotify-utils?style=social
 
 [spotify-utils-forks]: https://img.shields.io/github/forks/fabieu/spotify-utils?style=social
-
-[spotify-utils-issues]: https://img.shields.io/github/issues/fabieu/spotify-utils?style=flat
-
-[spotify-utils-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/spotify-utils?style=flat
 
 
 <!-- Fuel Analytics -->
