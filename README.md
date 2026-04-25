@@ -26,7 +26,7 @@ optimizing physical spaces in real time.
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-%236B16ED.svg?style=for-the-badge&logo=coolify&logoColor=white)
 
-## 🔓 Open Source Projects
+## 🌱 Open Source Projects
 
 | 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                   |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
