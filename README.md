@@ -26,17 +26,23 @@ optimizing physical spaces in real time.
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-%236B16ED.svg?style=for-the-badge&logo=coolify&logoColor=white)
 
-## 🏗️ Open Source Projects
+## 🔓 Open Source Projects
 
-| 🗂️ Projects                                                    | ⭐ Stars                                                                              | 🍴 Forks                                                                        | 🚧 Issues                                                                                          | 📬 Pull requests                                                                                          | 📝 Commits                                                                                  |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
-| [<u>SureHub API</u>][surehub-api]                               | [![GitHub Repo stars][surehub-api-stars]][surehub-api]                               | [![GitHub forks][surehub-api-forks]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-issues]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-pull-requests]][surehub-api]                               | [![GitHub commit activity][surehub-api-commits]][surehub-api]                               |
-| [<u>FINNBAR</u>][finnbar]                                       | [![GitHub Repo stars][finnbar-stars]][finnbar]                                       | [![GitHub forks][finnbar-forks]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-issues]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-pull-requests]][finnbar]                                       | [![GitHub commit activity][finnbar-commits]][finnbar]                                       |
-| [<u>Steam Next</u>][steam-next]                                 | [![GitHub Repo stars][steam-next-stars]][steam-next]                                 | [![GitHub forks][steam-next-forks]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-issues]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-pull-requests]][steam-next]                                 | [![GitHub commit activity][steam-next-commits]][steam-next]                                 |
-| [<u>Steam Market History CLI</u>][steam-market-history]         | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]             | [![GitHub forks][steam-market-history-forks]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-issues]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-pull-requests]][steam-market-history]             | [![GitHub commit activity][steam-market-history-commits]][steam-market-history]             |
-| [<u>SimDesk</u>][simdesk]                                       | [![GitHub Repo stars][simdesk-stars]][simdesk]                                       | [![GitHub forks][simdesk-forks]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-issues]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-pull-requests]][simdesk]                                       | [![GitHub commit activity][simdesk-commits]][simdesk]                                       |
-| [<u>MkDocs Color Swatch Plugin</u>][mkdocs-color-swatch-plugin] | [![GitHub Repo stars][mkdocs-color-swatch-plugin-stars]][mkdocs-color-swatch-plugin] | [![GitHub forks][mkdocs-color-swatch-plugin-forks]][mkdocs-color-swatch-plugin] | [![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-issues]][mkdocs-color-swatch-plugin] | [![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-pull-requests]][mkdocs-color-swatch-plugin] | [![GitHub commit activity][mkdocs-color-swatch-plugin-commits]][mkdocs-color-swatch-plugin] |
-| [<u>Spotify Utils CLI</u>][spotify-utils]                       | [![GitHub Repo stars][spotify-utils-stars]][spotify-utils]                           | [![GitHub forks][spotify-utils-forks]][spotify-utils]                           | [![GitHub Issues or Pull Requests][spotify-utils-issues]][spotify-utils]                           | [![GitHub Issues or Pull Requests][spotify-utils-pull-requests]][spotify-utils]                           | [![GitHub commit activity][spotify-utils-commits]][spotify-utils]                           |
+| 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars                                                                              | 🍴 Forks                                                                        | 🚧 Issues                                                                                          | 📬 Pull requests                                                                                          |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]                               | [![GitHub forks][surehub-api-forks]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-issues]][surehub-api]                               | [![GitHub Issues or Pull Requests][surehub-api-pull-requests]][surehub-api]                               |
+| [<u>FINNBAR</u>][finnbar]                                       | A TUI for browsing and checking real-time IKEA product availability across your local stores, without leaving the terminal. | [![GitHub Repo stars][finnbar-stars]][finnbar]                                       | [![GitHub forks][finnbar-forks]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-issues]][finnbar]                                       | [![GitHub Issues or Pull Requests][finnbar-pull-requests]][finnbar]                                       |
+| [<u>Steam Next</u>][steam-next]                                 | Modern alternative to ValvePython/steam python package for interacting with Steam 🚀                                        | [![GitHub Repo stars][steam-next-stars]][steam-next]                                 | [![GitHub forks][steam-next-forks]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-issues]][steam-next]                                 | [![GitHub Issues or Pull Requests][steam-next-pull-requests]][steam-next]                                 |
+| [<u>Steam Market History CLI</u>][steam-market-history]         | An easy-to-use CLI to export your steam market history to various formats                                                   | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]             | [![GitHub forks][steam-market-history-forks]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-issues]][steam-market-history]             | [![GitHub Issues or Pull Requests][steam-market-history-pull-requests]][steam-market-history]             |
+| [<u>SimDesk</u>][simdesk]                                       | Modern server leaderboard and various services for sim racing organizers.                                                   | [![GitHub Repo stars][simdesk-stars]][simdesk]                                       | [![GitHub forks][simdesk-forks]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-issues]][simdesk]                                       | [![GitHub Issues or Pull Requests][simdesk-pull-requests]][simdesk]                                       |
+| [<u>MkDocs Color Swatch Plugin</u>][mkdocs-color-swatch-plugin] | A lightweight plugin that lets you insert inline color swatches into your Markdown docs using a simple, readable syntax.    | [![GitHub Repo stars][mkdocs-color-swatch-plugin-stars]][mkdocs-color-swatch-plugin] | [![GitHub forks][mkdocs-color-swatch-plugin-forks]][mkdocs-color-swatch-plugin] | [![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-issues]][mkdocs-color-swatch-plugin] | [![GitHub Issues or Pull Requests][mkdocs-color-swatch-plugin-pull-requests]][mkdocs-color-swatch-plugin] |
+| [<u>Spotify Utils CLI</u>][spotify-utils]                       | An awesome and easy-to-use CLI for various Spotify® utility tasks                                                           | [![GitHub Repo stars][spotify-utils-stars]][spotify-utils]                           | [![GitHub forks][spotify-utils-forks]][spotify-utils]                           | [![GitHub Issues or Pull Requests][spotify-utils-issues]][spotify-utils]                           | [![GitHub Issues or Pull Requests][spotify-utils-pull-requests]][spotify-utils]                           |
+
+## 🔒 Closed Source Projects
+
+| 🗂️ Projects                            | 📝 Description                                                                                                                                                                                 |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<u>Fuel Analytics</u>][fuel-analytics] | Historic fuel prices, beautifully visualized. Track E5, E10 and Diesel across Germany. Explore trends, spot seasonality and build intuition for where prices move next — all in one dashboard. |
 
 ## 🏖️ Hobbies & Interests
 
@@ -47,7 +53,6 @@ optimizing physical spaces in real time.
 
 <!-- SureHub API  -->
 
-
 [surehub-api]: https://github.com/fabieu/surehub-api
 
 [surehub-api-stars]: https://img.shields.io/github/stars/fabieu/surehub-api?style=social
@@ -57,8 +62,6 @@ optimizing physical spaces in real time.
 [surehub-api-issues]: https://img.shields.io/github/issues/fabieu/surehub-api?style=flat
 
 [surehub-api-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/surehub-api?style=flat
-
-[surehub-api-commits]: https://img.shields.io/github/commit-activity/t/fabieu/surehub-api?style=flat
 
 
 <!-- FINNBAR -->
@@ -73,8 +76,6 @@ optimizing physical spaces in real time.
 
 [finnbar-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/finnbar?style=flat
 
-[finnbar-commits]: https://img.shields.io/github/commit-activity/t/fabieu/finnbar?style=flat
-
 
 <!-- Steam Next -->
 
@@ -87,8 +88,6 @@ optimizing physical spaces in real time.
 [steam-next-issues]: https://img.shields.io/github/issues/fabieu/steam-next?style=flat
 
 [steam-next-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/steam-next?style=flat
-
-[steam-next-commits]: https://img.shields.io/github/commit-activity/t/fabieu/steam-next?style=flat
 
 
 <!-- Steam Market History -->
@@ -103,10 +102,8 @@ optimizing physical spaces in real time.
 
 [steam-market-history-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/steam-market-history?style=flat
 
-[steam-market-history-commits]: https://img.shields.io/github/commit-activity/t/fabieu/steam-market-history?style=flat
 
-
-<!-- SimDesk Badge Links -->
+<!-- SimDesk -->
 
 [simdesk]: https://github.com/fabieu/simdesk
 
@@ -118,10 +115,8 @@ optimizing physical spaces in real time.
 
 [simdesk-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/simdesk?style=flat
 
-[simdesk-commits]: https://img.shields.io/github/commit-activity/t/fabieu/simdesk?style=flat
 
-
-<!-- MkDocs Color Swatch Plugin Badge Links -->
+<!-- MkDocs Color Swatch Plugin -->
 
 [mkdocs-color-swatch-plugin]: https://github.com/fabieu/mkdocs-color-swatch-plugin
 
@@ -133,9 +128,7 @@ optimizing physical spaces in real time.
 
 [mkdocs-color-swatch-plugin-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/mkdocs-color-swatch-plugin?style=flat
 
-[mkdocs-color-swatch-plugin-commits]: https://img.shields.io/github/commit-activity/t/fabieu/mkdocs-color-swatch-plugin?style=flat
-
-<!-- Spotify Utils CLI Badge Links -->
+<!-- Spotify Utils CLI -->
 
 [spotify-utils]: https://github.com/fabieu/spotify-utils
 
@@ -147,4 +140,7 @@ optimizing physical spaces in real time.
 
 [spotify-utils-pull-requests]: https://img.shields.io/github/issues-pr/fabieu/spotify-utils?style=flat
 
-[spotify-utils-commits]: https://img.shields.io/github/commit-activity/t/fabieu/spotify-utils?style=flat
+
+<!-- Fuel Analytics -->
+
+[fuel-analytics]: https://fuel-analytics.sustineo.de/
