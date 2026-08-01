@@ -31,6 +31,7 @@ optimizing physical spaces in real time.
 | 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                   |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]<br>[![GitHub forks][surehub-api-forks]][surehub-api]                                                             |
+| [<u>Faustball UX</u>][faustball-ux]                             | Tables, schedules and live results from the faustball.com database                                                          | [![GitHub Repo stars][faustball-ux-stars]][faustball-ux]<br>[![GitHub forks][faustball-ux-forks]][faustball-ux]                                                         |
 | [<u>FINNBAR</u>][finnbar]                                       | A TUI for browsing and checking real-time IKEA product availability across your local stores, without leaving the terminal. | [![GitHub Repo stars][finnbar-stars]][finnbar]<br>[![GitHub forks][finnbar-forks]][finnbar]                                                                             |
 | [<u>Steam Next</u>][steam-next]                                 | Modern alternative to ValvePython/steam python package for interacting with Steam 🚀                                        | [![GitHub Repo stars][steam-next-stars]][steam-next]<br>[![GitHub forks][steam-next-forks]][steam-next]                                                                 |
 | [<u>Steam Market History CLI</u>][steam-market-history]         | An easy-to-use CLI to export your steam market history to various formats                                                   | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]<br>[![GitHub forks][steam-market-history-forks]][steam-market-history]                         |
@@ -58,6 +59,15 @@ optimizing physical spaces in real time.
 [surehub-api-stars]: https://img.shields.io/github/stars/fabieu/surehub-api?style=social
 
 [surehub-api-forks]: https://img.shields.io/github/forks/fabieu/surehub-api?style=social
+
+
+<!-- Faustball UX -->
+
+[faustball-ux]: https://github.com/fabieu/faustball-ux
+
+[faustball-ux-stars]: https://img.shields.io/github/stars/fabieu/faustball-ux?style=social
+
+[faustball-ux-forks]: https://img.shields.io/github/forks/fabieu/faustball-ux?style=social
 
 
 <!-- FINNBAR -->
