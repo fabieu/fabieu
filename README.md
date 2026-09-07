@@ -28,7 +28,7 @@ optimizing physical spaces in real time.
 
 ## 🌱 Open Source Projects
 
-| 🗂️ Projects                                                    | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                   |
+| 🗂️ Projects                                                     | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                  |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]<br>[![GitHub forks][surehub-api-forks]][surehub-api]                                                             |
 | [<u>FINNBAR</u>][finnbar]                                       | A TUI for browsing and checking real-time IKEA product availability across your local stores, without leaving the terminal. | [![GitHub Repo stars][finnbar-stars]][finnbar]<br>[![GitHub forks][finnbar-forks]][finnbar]                                                                             |
@@ -40,7 +40,7 @@ optimizing physical spaces in real time.
 
 ## 🔒 Closed Source Projects
 
-| 🗂️ Projects                            | 📝 Description                                                                                                                                                                                 |
+| 🗂️ Projects                             | 📝 Description                                                                                                                                                                                 |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<u>Faustball UX</u>][faustball-ux]     | Tables, schedules and live results from the faustball.com database                                                                                                                             |
 | [<u>Fuel Analytics</u>][fuel-analytics] | Historic fuel prices, beautifully visualized. Track E5, E10 and Diesel across Germany. Explore trends, spot seasonality and build intuition for where prices move next — all in one dashboard. |
@@ -116,7 +116,7 @@ optimizing physical spaces in real time.
 
 <!-- Faustball UX -->
 
-[faustball-ux]: https://faustball.sustineo.de/
+[faustball-ux]: https://faustball.dev/
 
 
 <!-- Fuel Analytics -->
