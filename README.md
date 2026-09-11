@@ -22,6 +22,7 @@ optimizing physical spaces in real time.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-277ABE?style=for-the-badge&logo=databricks&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=black)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-%236B16ED.svg?style=for-the-badge&logo=coolify&logoColor=white)
