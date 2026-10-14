@@ -31,6 +31,7 @@ optimizing physical spaces in real time.
 
 | 🗂️ Projects                                                     | 📝 Description                                                                                                              | ⭐ Stars <br> 🍴 Forks                                                                                                                                                  |
 |-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [<u>Parquet Viewer</u>][parquet-viewer]                         | A fast, read-only desktop app for opening Parquet files and exploring them with plain SQL                                   | [![GitHub Repo stars][parquet-viewer-stars]][parquet-viewer]<br>[![GitHub forks][parquet-viewer-forks]][parquet-viewer]                                                 |
 | [<u>SureHub API</u>][surehub-api]                               | The unofficial SureHub API is a simple, yet powerful RESTful API for products from Sure Petcare                             | [![GitHub Repo stars][surehub-api-stars]][surehub-api]<br>[![GitHub forks][surehub-api-forks]][surehub-api]                                                             |
 | [<u>Steam Market History CLI</u>][steam-market-history]         | An easy-to-use CLI to export your steam market history to various formats                                                   | [![GitHub Repo stars][steam-market-history-stars]][steam-market-history]<br>[![GitHub forks][steam-market-history-forks]][steam-market-history]                         |
 | [<u>Steam Next</u>][steam-next]                                 | Modern alternative to ValvePython/steam python package for interacting with Steam 🚀                                        | [![GitHub Repo stars][steam-next-stars]][steam-next]<br>[![GitHub forks][steam-next-forks]][steam-next]                                                                 |
@@ -51,6 +52,15 @@ optimizing physical spaces in real time.
 - **Sim Racing** - Manager of the [Sim2Real](https://sim2real.eu) simracing
   community, organizing and hosting online racing events.
 - **Smart Home** - Passionate about automating my home with Home Assistant.
+
+<!-- Parquet Viewer -->
+
+[parquet-viewer]: https://github.com/fabieu/parquet-viewer
+
+[parquet-viewer-stars]: https://img.shields.io/github/stars/fabieu/parquet-viewer?style=social
+
+[parquet-viewer-forks]: https://img.shields.io/github/forks/fabieu/parquet-viewer?style=social
+
 
 <!-- SureHub API  -->
 
