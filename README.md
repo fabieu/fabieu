@@ -4,6 +4,8 @@ Hey there, I'm **Fabian**, a passionate Software Engineer based in Germany. I wo
 [sensalytics](https://www.sensalytics.io/), where we build a sensor-driven analytics platforms for tracking and
 optimizing physical spaces in real time.
 
+[![Support me](https://img.buymeacoffee.com/button-api/?text=Support%20me&emoji=%F0%9F%9A%80&slug=fabieu&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/fabieu)
+
 ## 💻 Tech Stack:
 
 [![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
